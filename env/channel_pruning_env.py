@@ -85,6 +85,7 @@ class ChannelPruningEnv:
         self.org_w_size = sum(self.wsize_list)
 
     def step(self, action):
+        # print(action)
         # Pseudo prune and get the corresponding statistics. The real pruning happens till the end of all pseudo pruning
         if self.visited[self.cur_ind]:
             action = self.strategy_dict[self.prunable_idx[self.cur_ind]][0]

@@ -3,13 +3,14 @@
 # {jilin, songhan}@mit.edu
 
 import numpy as np
-
+import math
 
 # for pruning
 def acc_reward(net, acc, flops):
     return acc * 0.01
 
 
-def acc_flops_reward(net, acc, flops):
-    error = (100 - acc) * 0.01
-    return -error * np.log(flops)
+def acc_flops_reward(net, acc, comp_ratio):
+    # print(flops)
+    return (acc-85) * np.log(comp_ratio)
+    # return np.log(acc) / (2 * np.log(bit_sum))

@@ -1,0 +1,62 @@
+#0: episode_reward:-1918.6585 acc: 0.8667, ratio: 0.4473
+best reward: -1918.6585048471761
+best policy: [1.0, np.float64(0.25), np.float64(0.875), np.float64(0.4375), np.float64(1.0), np.float64(0.875), np.float64(0.21875), np.float64(0.9375), np.float64(0.671875), np.float64(0.890625), np.float64(0.625), np.float64(0.21875), np.float64(0.625), np.float64(0.921875), np.float64(0.9375)]
+#1: episode_reward:-1874.1768 acc: 0.6667, ratio: 0.2749
+best reward: -1874.1767922431977
+best policy: [1.0, np.float64(0.5), np.float64(0.25), np.float64(0.75), np.float64(0.3125), np.float64(0.21875), np.float64(0.84375), np.float64(0.8125), np.float64(0.921875), np.float64(0.421875), np.float64(0.734375), np.float64(0.265625), np.float64(0.203125), np.float64(0.203125), np.float64(0.4140625)]
+#2: episode_reward:-1865.4499 acc: 0.5000, ratio: 0.2440
+best reward: -1865.4498928656678
+best policy: [1.0, np.float64(0.25), np.float64(0.75), np.float64(0.25), np.float64(0.25), np.float64(0.5625), np.float64(0.90625), np.float64(0.203125), np.float64(0.703125), np.float64(0.21875), np.float64(0.71875), np.float64(0.90625), np.float64(0.359375), np.float64(0.3046875), np.float64(0.2890625)]
+#3: episode_reward:-1845.4212 acc: 0.3667, ratio: 0.1946
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#4: episode_reward:-1863.1601 acc: 0.4667, ratio: 0.2369
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#5: episode_reward:-1877.3027 acc: 0.9333, ratio: 0.2985
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#6: episode_reward:-1848.7399 acc: 0.7000, ratio: 0.2141
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#7: episode_reward:-1853.0815 acc: 1.9333, ratio: 0.2829
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#8: episode_reward:-1846.3762 acc: 0.6333, ratio: 0.2065
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#9: episode_reward:-1859.2767 acc: 0.5667, ratio: 0.2322
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#10: episode_reward:-1866.2482 acc: 0.7000, ratio: 0.2554
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#11: episode_reward:-1865.2974 acc: 1.2000, ratio: 0.2782
+best reward: -1845.4211595113316
+best policy: [1.0, np.float64(0.25), np.float64(0.625), np.float64(0.5), np.float64(0.25), np.float64(0.21875), np.float64(0.75), np.float64(0.515625), np.float64(0.203125), np.float64(0.203125), np.float64(0.953125), np.float64(0.3125), np.float64(1.0), np.float64(0.375), np.float64(0.203125)]
+#12: episode_reward:-1828.5454 acc: 0.6000, ratio: 0.1715
+best reward: -1828.5454479240984
+best policy: [1.0, np.float64(0.25), np.float64(0.375), np.float64(0.25), np.float64(0.625), np.float64(0.21875), np.float64(0.75), np.float64(0.53125), np.float64(0.203125), np.float64(0.203125), np.float64(0.203125), np.float64(0.8125), np.float64(0.671875), np.float64(0.21875), np.float64(0.3203125)]
+#13: episode_reward:-1818.2537 acc: 0.6333, ratio: 0.1556
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#14: episode_reward:-1891.1022 acc: 1.5333, ratio: 0.3854
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#15: episode_reward:-1887.9621 acc: 1.8333, ratio: 0.3958
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#16: episode_reward:-1897.9522 acc: 0.9333, ratio: 0.3677
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#17: episode_reward:-1878.9815 acc: 2.8000, ratio: 0.4370
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#18: episode_reward:-1890.2883 acc: 0.5333, ratio: 0.3152
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#19: episode_reward:-1834.5573 acc: 0.5667, ratio: 0.1811
+best reward: -1818.2537432877325
+best policy: [1.0, np.float64(0.75), np.float64(0.625), np.float64(0.4375), np.float64(0.25), np.float64(0.25), np.float64(0.4375), np.float64(0.546875), np.float64(0.203125), np.float64(0.203125), np.float64(0.328125), np.float64(0.203125), np.float64(0.9375), np.float64(0.203125), np.float64(0.4375)]
+#20: episode_reward:-1882.9285 acc: 0.9667, ratio: 0.3180
+best reward: -1818.2537432877325

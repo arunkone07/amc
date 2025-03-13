@@ -1,8 +1,8 @@
-python amc_search.py \
+python3 amc_search_2.py \
     --job=export \
     --model=mobilenet \
     --dataset=imagenet \
-    --data_root=/dataset/imagenet \
+    --data_root=/srv/datasets \
     --ckpt_path=./checkpoints/mobilenet_imagenet.pth.tar \
     --seed=2018 \
     --n_calibration_batches=300 \

@@ -145,7 +145,7 @@ def adjust_learning_rate(optimizer, epoch):
         lr = 0.5 * args.lr * (1 + math.cos(math.pi * epoch / args.n_epoch))
     elif args.lr_type == 'exp':
         step = 1
-        decay = 0.96
+        decay = 0.99 #0.96
         lr = args.lr * (decay ** (epoch // step))
     elif args.lr_type == 'fixed':
         lr = args.lr
@@ -196,7 +196,9 @@ if __name__ == '__main__':
         print('=> Resuming from checkpoint..')
         checkpoint = torch.load(args.ckpt_path)
         sd = checkpoint['state_dict'] if 'state_dict' in checkpoint else checkpoint
-        net.load_state_dict(sd)
+        # net.load_state_dict(sd)
+        
+        net.load_state_dict(torch.load('./logs/mobilenet_imagenet_q_search-run103/model_best_quantized.pth', weights_only=True))
     if use_cuda and args.n_gpu > 1:
         net = torch.nn.DataParallel(net, list(range(args.n_gpu)))
 
